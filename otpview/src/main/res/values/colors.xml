@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="transparentGrey">#CCFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#c1c1c1</color>
+    <color name="lightGrey">#E7E7E7</color>
+    <color name="darkGrey">#303030</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="bluey_grey">#9b9fbb</color>
+    <color name="dark_grey_blue">#2b3669</color>
+    <color name="steel">#6f769b</color>
+    <color name="darkish_pink">#f12b7b</color>
+    <color name="darkish_pink_op10">#19F12B7B</color>
+    <color name="pale_grey">#f7f7f9</color>
+    <color name="pale_lilac">#e3e4eb</color>
+    <color name="light_periwinkle">#A6A6C0</color>
+    <color name="cloudy_blue">#a4acde</color>
+    <color name="lipstick">#b42554</color>
+
+</resources>
