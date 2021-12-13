@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OtpView.iml" filepath="$PROJECT_DIR$/.idea/modules/OtpView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OtpView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OtpView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/otpview/OtpView.otpview.iml" filepath="$PROJECT_DIR$/.idea/modules/otpview/OtpView.otpview.iml" />
+    </modules>
+  </component>
+</project>
